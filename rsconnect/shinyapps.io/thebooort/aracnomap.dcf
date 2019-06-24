@@ -1,0 +1,12 @@
+name: aracnomap
+title: aracnomap
+username:
+account: thebooort
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 956923
+bundleId: 2133846
+url: https://thebooort.shinyapps.io/aracnomap/
+when: 1559768691.3183
+asMultiple: FALSE
+asStatic: FALSE
